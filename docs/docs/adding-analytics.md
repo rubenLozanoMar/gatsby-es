@@ -1,5 +1,5 @@
 ---
-title: Adding analytics
+title: Añadiendo métricas de análisis
 ---
 
 ## ¿Por qué usar métricas de análisis?
